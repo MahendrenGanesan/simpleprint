@@ -1,0 +1,9 @@
+{
+	"name": "simpleprint-df01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7422be3f-8fad-46d1-9ef1-a7d4b157465c",
+		"tenantId": "08417b48-ff3c-42c8-ae5a-2be9a7a45f37"
+	}
+}
